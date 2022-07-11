@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>Fuck Python</p>
+      <img src={require("./images/1.jpg")}></img>
     </div>
   );
 }
